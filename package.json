@@ -1,7 +1,7 @@
 {
   "name": "@nqduy180500/api-chat-sms",
-  "version": "1.0.0",
-  "description": "connect to api chat skye",
+  "version": "1.0.1",
+  "description": "connect to api chat sms",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -34,6 +34,9 @@
     "@nqduy180500/api-chat-ai": "^1.0.0",
     "@nqduy180500/api-chat-fb": "^1.0.0",
     "@nqduy180500/api-chat-gmail": "^1.0.0",
+    "@nqduy180500/api-chat-skye": "^1.0.1",
+    "@nqduy180500/api-chat-sms": "^1.0.0",
+    "@nqduy180500/api-chat-viber": "^1.0.0",
     "@nqduy180500/api-chat-zalo": "^1.0.2",
     "@oraliepham/api-chat-fanpage-facebook": "^1.2.4",
     "@oraliepham/api-facebooknew": "^1.0.5",
