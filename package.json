@@ -1,14 +1,14 @@
 {
   "name": "@nqduy180500/api-chat-sms",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "connect to api chat sms",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "api-gmail",
-    "api-connect-gmail"
+    "api-chat",
+    "api-chat-sms"
   ],
   "repository": {
     "type": "git",
